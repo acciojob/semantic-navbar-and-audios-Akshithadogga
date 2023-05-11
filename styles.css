@@ -1,10 +1,7 @@
 
 /* Your CSS Code here. */
-.head{
-	background-color:orange;
-}
 .navbar{
 	display:flex;
 	justify-content:space-between;
-	
+	background-color:orange;
 }
